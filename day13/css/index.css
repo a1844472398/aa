@@ -1,0 +1,152 @@
+body{
+    background: #f8f8f8;
+}
+.tou{
+    height: 1.12rem;
+    background: #2A2A2A;
+    overflow: hidden;
+}
+.tou .logo{
+    background: url(../images/logo.png) center center no-repeat;
+    width: 2.1rem;
+    height: 0.62rem;
+    background-size: cover;
+    float: left;
+    margin-top: 0.23rem;
+    margin-left: 0.16rem;
+}
+.tou .logo1{
+    background: url(../images/logo1.png) center center no-repeat;
+    width: 0.36rem;
+    height: 0.32rem;
+    background-size: cover;
+    float: right;
+    margin-right: 0.23rem;
+    margin-top: 0.4rem;
+}
+.referral{
+    width: 6.4rem;
+    height: 3.41rem;
+}
+.referral .wx{
+    background: url(../images/course\ .png) center center no-repeat;
+    height: 3.41rem;
+    background-size: cover;
+    display: block;
+}
+.course a{
+    background: url(../images/boos.png) left center no-repeat;
+    width: 0.29rem;
+    height: 0.35rem;
+    background-size: cover;
+    float: left;
+    margin-left: 0.19rem;
+    margin-top: 0.33rem;
+}
+.course p{
+    color: #4C4B4B;
+    font-size: 0.26rem;
+    float: left;
+    margin-left: 0.12rem;
+    margin-top: 0.36rem;
+}
+.box{
+    width: 6rem;
+    height:4.25rem;
+    margin: 0 auto;
+    margin-top: 0.37rem;
+    margin-bottom: 1.5rem;
+}
+.box .top{
+    background: url(../images/kec.png) center center no-repeat;
+    width: 6rem;
+    height: 2.8rem;
+    display: block;
+    background-size: cover;
+}
+.box .bottom {
+  background: #ffffff;
+  height: 1.44rem;
+  box-shadow: 0 0 10px 0 rgba(0 ,0, 0,0.3 );
+}
+.box .bottom  h3{
+    font-size: 0.28rem;
+    color: #777777;
+    float: left;
+    margin-top: 0.31rem;
+    margin-left: 0.97rem;
+}
+.box .bottom  p{
+    font-size: 0.28rem;
+    color: #ED3A3A;
+    float: left;
+    margin-left: 2.31rem;
+    margin-top: 0.24rem;
+}
+.base{
+    width: 6.4rem;
+    height: 1.07rem;
+    background: #FFFFFF;
+    margin: 0 auto;
+}
+.foot{
+    height: 1.07rem;
+    position:fixed;
+    bottom: 0;
+    left: 0;
+    background: #fff;
+    width: 100%;
+    border-top: 1px solid #ededed;
+}
+.foot li{
+    width: 33.33%;
+    height: 100%;
+    float: left;
+}
+.foot li a{
+    display:block;
+    height: 100%;
+    text-align: center;
+    color: #ababab;
+}
+.iconindex{
+    width: 0.46rem;
+    height: 0.32rem;
+    margin: 0 auto;
+    background: url(../images/index.png) center center no-repeat;
+    background-size: cover;
+    margin-top: 0.21rem;
+    margin-bottom: 0.08rem;
+}
+.iconclass{
+    width: 0.4rem;
+    height: 0.39rem;
+    background: url(../images/center.png) center center no-repeat;
+    background-size: cover;
+    margin: 0 auto;
+    margin-top:0.16rem;
+    margin-bottom: 0.11rem;
+}
+.iconCenter{
+    width: 0.36rem;
+    height: 0.36rem;
+    background: url(../images/kecheng1.png) center center no-repeat;
+    background-size: cover;
+    margin:0.18rem auto 0.13rem auto;
+
+}
+.current .iconindex{
+    background: url(../images/index.png) center center no-repeat;
+    background-size: cover;
+}
+.foot .current  a{
+    color: #188ae4;
+}
+.current .iconclass{
+    background: url(../images/center1.png) center center no-repeat;
+    background-size: cover;
+}
+.current .iconCenter{
+    background: url(../images/index1.png) center center no-repeat;
+    background-size: cover;
+}
